@@ -1,0 +1,9 @@
+div {
+  padding: 16px;
+}
+ul li::marker {
+  content: "😊";
+}
+ul li:active::marker {
+  content: "😩";
+}

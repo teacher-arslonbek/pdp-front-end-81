@@ -1,19 +1,20 @@
 ----------  Lesson - 6  ----------(23.02.21)
-#1 --> Relational Selectors
-       ✅ +
-       ✅ ~
-       ✅ >
+#1 --> Relational Selectors👍🏻
+       ✅ +👍🏻
+       ✅ ~👍🏻
+       ✅ >👍🏻
 #2 --> Pseudo-class Selectors
-       ✅ :nth-child
-       ✅ :first-child
-       ✅ :first-of-type
-       ✅ :visited
-       ✅ :hover
-       ✅ :active
-       ✅ :focus
+       ✅ :nth-child👍🏻
+       ✅ :first-child 👍🏻
+       ✅ :first-of-type 👍🏻
+       ✅ :visited 👍🏻
+       ✅ :hover👍🏻
+       ✅ :active👍🏻
+       ✅ :focus👍🏻
+       ✅ :not👍🏻
 #3 --> Pseudo-elements Selectors
-       ✅ ::first-letter
-       ✅ ::first-line
-       ✅ ::selection
-       ✅ ::after
-       ✅ ::before
+       ✅ ::first-letter 👍🏻
+       ✅ ::first-line 👍🏻
+       ✅ ::selection 👍🏻
+       ✅ ::before 👍🏻
+       ✅ ::after  👍🏻
