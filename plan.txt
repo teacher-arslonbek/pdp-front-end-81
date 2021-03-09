@@ -1,0 +1,25 @@
+---------- Lesson - 12 ---------(09.03.21)
+#1 --> The rest Display Grid
+--------- Placing items in named areas ------------
+        ✅ grid-row
+        ✅ grid-column
+        ✅ grid-area
+
+        --------- Placing items ------------
+        ✅ grid-template-areas:
+                                <name1> <name1> <name1>
+                                <name2> <name2> <name2>
+                                <name3> <name4> <name4>
+                                <name3> <name4> <name4>
+        ✅ grid-area
+
+#2 --> Media Query
+          ✅ Example
+             https://www.bluecorona.com/wp-content/uploads/2015/04/what-is-a-responsive-website.png
+          ✅ breakpoints
+             Desktop
+             Mobile
+          https://ricostacruz.com/til/css-media-query-breakpoints
+
+#3 --> Media Query Example
+       ✅ https://i.ytimg.com/vi/2OqWK9627sM/maxresdefault.jpg
