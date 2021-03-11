@@ -1,0 +1,15 @@
+@import "./fonts.css";
+
+body {
+  /* margin: 0; */
+}
+
+h1 {
+  font-size: 60px;
+  font-family: "poppins";
+  font-weight: 300;
+}
+
+p {
+  white-space: pre;
+}
