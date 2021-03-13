@@ -1,0 +1,37 @@
+---------- Lesson - 14 ---------(13.03.21)
+#1 --> Font services
+       ✅  https://fonts.google.com
+
+#2 --> Vertical Spacing
+       ✅ line-hight
+       ✅ margin
+
+#3 --> Horizontal Spacing
+       ✅ letter-spacing
+       ✅ word-spacing
+
+#4 --> Formatting text
+       ✅ text-align
+       ✅ text-indent
+       ✅ text-decoration
+       ✅ text-transform
+       ✅ white-space
+
+----------- Images -----------
+
+#5 --> Background Image
+       ✅ background
+       ✅ background-repeat
+       ✅ background-posistion
+       ✅ background-size
+       ✅ background-attachment
+       ✅ url: https://css-tricks.com/almanac/properties/b/background/
+
+#6 --> Filters
+       ✅ blur,
+       ✅ brightness,
+       ✅ contrast,
+       ✅ drop-shadow,
+       ✅ grayscale,
+       ✅ hue-rotate,
+       ✅ saturate,
