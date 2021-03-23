@@ -1,0 +1,10 @@
+.item {
+  background-color: red;
+}
+
+#items li.item {
+  background: none;
+  border: 2px solid yellow;
+  color: green;
+  font-size: 25px;
+}
