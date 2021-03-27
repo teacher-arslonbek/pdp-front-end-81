@@ -1,0 +1,10 @@
+----------- Lesson - 19 -----------(27.03.21)
+#1 --> Images
+#2 --> Tables
+#3 --> Alerts
+#4 --> Badge
+#5 --> Breadcrumb
+#6 --> Buttons
+#7 --> Button groups
+#8 --> Card
+#9 --> Carousel
