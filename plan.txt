@@ -17,3 +17,8 @@ option - 3 -> https://www.figma.com/file/H1Yc8yDKM3OrY0c1T5bH1c/CoinBase-Web-%26
 
 
 
+#2 --> creat wave element
+     ✅ https://www.geeksforgeeks.org/how-to-create-a-wave-image-for-a-background-using-html-and-css/
+#3 --> get weve sites
+     ✅ https://www.shapedivider.app/
+     ✅ https://getwaves.io/
