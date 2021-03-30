@@ -1,0 +1,19 @@
+------------- Lesson - 20 -------------(30.03.21)
+#1 --> Nimalarni bilishimiz kerak
+        ✅ Semenatic HTML
+        ✅ Basic CSS properties
+        ✅ Selectors & pseudo-selectors
+        ✅ CSS box model
+        ✅ Absolute & Relative & fixed & sticky posistioning
+        ✅ Flex & Grid Layouts
+        ✅ Media Queries
+        ✅ Responsive Image
+        ✅ Transformations
+        ✅ Transitions
+ ---------- Real App ----------
+option - 1 -> https://www.figma.com/file/rJ2a6dsdzHJRPyTYfCngtl/Prosecurse---Figma-Legal-Web-Page-Template-(Community)?node-id=964%3A17400&viewport=-2098%2C1039%2C0.23018430173397064
+option - 2 -> https://www.figma.com/file/gi0znUun2syTOOrAps8eKc/Figmaland--Business-Landing-page-(Community)?node-id=65%3A122&viewport=5663%2C106%2C0.14043889939785004
+option - 3 -> https://www.figma.com/file/H1Yc8yDKM3OrY0c1T5bH1c/CoinBase-Web-%26-Mobile-App-Design-(Community)?node-id=32%3A2&viewport=2853%2C1315%2C0.43250811100006104
+
+
+
